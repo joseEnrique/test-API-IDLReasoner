@@ -1,0 +1,500 @@
+ 1.53s,false,200,http://localhost:8000/v3/businesses/search?latitude=44.757668&term=ok&location=Seville,
+ 0.63s,false,200,http://localhost:8000/v3/businesses/search?offset=738&term=cheap&location=San Francisco&attributes=request_a_quote&categories=belgian&locale=de_AT&longitude=-100.923546&,
+ 0.17s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=374&latitude=47.35306&location=Egypt&categories=observatories&radius=32551&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&latitude=35.211964&term=open&categories=petwasteremoval&radius=34933&longitude=-117.406876&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.93s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&location=Milan,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=3&latitude=37.791695&limit=48&term=ok&location=San Francisco&categories=qigong&radius=17608&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.16s,false,200,http://localhost:8000/v3/businesses/search?offset=965&term=cheap&location=Seville,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?offset=251&latitude=45.122746&limit=47&sort_by=distance&categories=perfume&radius=9978&open_at=1870831992&longitude=-118.62717&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.17s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&latitude=42.970943&limit=14&term=cinema&sort_by=review_count&locale=fil_PH&longitude=-84.36459&,
+ 0.68s,false,200,http://localhost:8000/v3/businesses/search?latitude=42.702126&limit=21&location=Milan,
+ 0.76s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&latitude=46.378998&term=open&location=San Francisco&attributes=waitlist_reservation&locale=en_MY&longitude=-92.80719&,
+ 0.82s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&price=2&latitude=40.130974&location=Seville,
+ 0.20s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&price=3&latitude=38.09369&term=cheap&attributes=request_a_quote&sort_by=rating&categories=walkingtours&radius=36563&longitude=-118.249855&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?latitude=43.064236&term=cheap&sort_by=rating&categories=hot_air_balloons&locale=es_AR&radius=12536&open_at=1860709155&longitude=-97.21405&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?price=4&latitude=43.475037&location=Paris&sort_by=rating&radius=11678&longitude=-96.40111&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.76s,false,200,http://localhost:8000/v3/businesses/search?location=Seville,
+ 1.09s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=967&latitude=44.08875&location=Seville,
+ 3.51s,false,200,http://localhost:8000/v3/businesses/search?offset=118&price=1&latitude=36.710014&location=Melbourne&attributes=gender_neutral_restrooms&sort_by=review_count&categories=businessconsulting&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=4&limit=50&term=exciting&location=Krakow&attributes=waitlist_reservation&locale=fil_PH&radius=2341&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=1&latitude=43.553543&term=cinema&location=Krakow&sort_by=best_match&categories=homecleaning&locale=en_US&radius=8663&longitude=-107.22283&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=118&location=Melbourne&attributes=wheelchair_accessible&sort_by=rating&categories=publicadjusters&open_at=2062280279&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.21s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=32&latitude=38.09741&limit=36&term=cheap&categories=productdesign&locale=en_IE&radius=30593&longitude=-96.08121&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.01s,false,200,http://localhost:8000/v3/businesses/search?offset=414&latitude=44.45055&location=Seville,
+ 1.12s,false,200,http://localhost:8000/v3/businesses/search?offset=922&price=1&latitude=38.399967&limit=24&term=open&longitude=-117.63196&,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&offset=680&term=ok&location=NYC&sort_by=best_match&categories=chinese&locale=de_CH&radius=36056&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.18s,true,400,http://localhost:8000/v3/businesses/search?offset=478&price=1&term=exciting&location=Krakow&sort_by=review_count&categories=carpet_cleaning&radius=39129&open_at=1925982201&longitude=-97.12318&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.11s,true,400,http://localhost:8000/v3/businesses/search?offset=257&latitude=43.87221&limit=39&attributes=wheelchair_accessible&sort_by=best_match&categories=furnitureassembly&locale=de_DE&radius=15767&open_at=2059922006&longitude=-85.06813&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.73s,false,200,http://localhost:8000/v3/businesses/search?price=2&latitude=38.906975&limit=36&location=Seville,
+ 0.68s,false,200,http://localhost:8000/v3/businesses/search?limit=35&location=Juarez,
+ 0.90s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=44.03215&attributes=cashback&categories=glassandmirrors&longitude=-116.31694&,
+ 0.84s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&price=1&limit=13&term=cinema&location=Paris&sort_by=review_count&categories=libraries&locale=en_NZ&,
+ 0.81s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&price=2&latitude=45.45489&sort_by=best_match&categories=mongolian&longitude=-81.66002&,
+ 0.67s,false,200,http://localhost:8000/v3/businesses/search?price=4&limit=16&term=cheap&location=Seville,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=189&latitude=39.883255&limit=42&locale=fr_FR&radius=27663&longitude=-94.2897&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.58s,false,200,http://localhost:8000/v3/businesses/search?price=1&latitude=40.242195&term=ok&location=Paris&categories=taxis&locale=de_CH&,
+ 0.10s,true,400,http://localhost:8000/v3/businesses/search?offset=713&price=3&limit=29&location=Paris&sort_by=rating&categories=tvmounting&locale=de_CH&radius=13291&open_at=1613255073&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 2.03s,false,200,http://localhost:8000/v3/businesses/search?offset=933&price=3&location=Tokyo&locale=pl_PL&longitude=-81.67005&,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=1&latitude=41.055294&location=Melbourne&attributes=deals&sort_by=review_count&radius=5348&longitude=-113.09422&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.17s,true,400,http://localhost:8000/v3/businesses/search?offset=508&latitude=44.45055&limit=27&term=cheap&attributes=cashback&locale=en_MY&radius=5581&open_at=1771327420&longitude=-85.471725&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=3&latitude=38.75287&term=cheap&location=Melbourne&attributes=wheelchair_accessible&sort_by=best_match&radius=38845&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.84s,false,200,http://localhost:8000/v3/businesses/search?offset=31&limit=10&location=Paris&attributes=hot_and_new&locale=de_AT&longitude=-98.968864&,
+ 0.56s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=37.879025&limit=34&location=San Francisco&categories=patiocoverings&locale=pt_BR&radius=702&,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?latitude=33.31288&sort_by=distance&categories=venues&locale=nb_NO&radius=38834&open_at=1716810095&longitude=-91.79729&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.03s,false,200,http://localhost:8000/v3/businesses/search?price=2&limit=9&term=ok&location=NYC&longitude=-116.14923&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=900&price=2&latitude=46.379704&term=open&attributes=gender_neutral_restrooms&sort_by=best_match&open_at=1905975650&longitude=-80.58693&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?price=1&latitude=47.140236&limit=48&sort_by=best_match&locale=cs_CZ&open_at=1805048065&longitude=-92.41606&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 2.40s,false,200,http://localhost:8000/v3/businesses/search?price=2&limit=49&location=Seville,
+ 1.70s,false,200,http://localhost:8000/v3/businesses/search?price=4&location=Milan,
+ 1.07s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=449&latitude=42.50242&limit=42&location=Juarez,
+ 1.05s,false,200,http://localhost:8000/v3/businesses/search?price=2&latitude=40.68785&limit=42&term=public&attributes=cashback&longitude=-111.361244&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?price=2&latitude=38.856644&location=Melbourne&attributes=hot_and_new&locale=en_PH&radius=37751&open_at=1834035935&longitude=-113.50464&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.87s,false,200,http://localhost:8000/v3/businesses/search?price=4&latitude=41.972763&limit=36&location=Seville,
+ 0.73s,false,200,http://localhost:8000/v3/businesses/search?latitude=46.600792&limit=32&term=open&sort_by=distance&locale=en_PH&longitude=-96.74838&,
+ 0.19s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=660&price=1&latitude=44.388626&term=open&sort_by=distance&locale=ja_JP&radius=16422&longitude=-80.38075&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=431&price=3&latitude=37.193684&sort_by=distance&locale=sv_FI&radius=8663&longitude=-109.20484&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.12s,false,200,http://localhost:8000/v3/businesses/search?limit=17&location=Juarez,
+ 0.71s,false,200,http://localhost:8000/v3/businesses/search?price=2&latitude=36.978214&location=Juarez,
+ 0.44s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=829&price=4&latitude=46.218174&sort_by=rating&locale=en_US&longitude=-96.77436&,
+ 0.10s,true,400,http://localhost:8000/v3/businesses/search?limit=13&location=NYC&attributes=waitlist_reservation&open_at=2044093609&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.51s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=867&latitude=35.32311&limit=12&location=Paris&longitude=-82.99609&,
+ 1.16s,false,200,http://localhost:8000/v3/businesses/search?term=food&location=Milan,
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?latitude=39.304577&limit=28&term=ok&sort_by=review_count&categories=boatrepair&locale=en_CH&open_at=1984089837&longitude=-104.52554&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.65s,false,200,http://localhost:8000/v3/businesses/search?latitude=45.720257&longitude=-111.19465&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&latitude=34.96253&limit=39&radius=25387&longitude=-111.361244&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.88s,false,200,http://localhost:8000/v3/businesses/search?term=exciting&location=Milan,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?offset=311&price=4&latitude=33.292664&term=cheap&location=San Francisco&sort_by=distance&categories=autoglass&radius=23982&open_at=1612560915&longitude=-114.50235&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.22s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&term=public&location=Juarez,
+ 0.97s,false,200,http://localhost:8000/v3/businesses/search?price=3&latitude=40.63455&location=San Francisco&attributes=reservation&locale=en_PH&,
+ 0.63s,false,200,http://localhost:8000/v3/businesses/search?price=1&latitude=46.264694&term=cinema&sort_by=review_count&longitude=-113.29219&,
+ 0.53s,false,200,http://localhost:8000/v3/businesses/search?offset=626&latitude=45.698486&term=cheap&attributes=reservation&sort_by=review_count&locale=zh_TW&longitude=-80.826965&,
+ 0.68s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=472&latitude=34.764267&term=cinema&location=Juarez,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?latitude=43.25211&term=open&attributes=deals&categories=carpetinstallation&radius=17380&longitude=-100.73469&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.59s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&price=3&limit=11&location=Tokyo&attributes=wheelchair_accessible&sort_by=rating&categories=collegecounseling&,
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=305&latitude=44.187332&term=cheap&attributes=cashback&categories=postoffices&locale=es_CL&radius=8917&open_at=2006897855&longitude=-83.534805&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?limit=46&location=NYC&locale=pt_BR&radius=9071&open_at=1957463389&longitude=-87.77161&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.65s,false,200,http://localhost:8000/v3/businesses/search?limit=1&term=cinema&location=Melbourne&sort_by=rating&categories=paydayloans&locale=fil_PH&longitude=-100.27687&,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=4&latitude=40.770203&term=exciting&attributes=hot_and_new&categories=mini_golf&locale=pt_BR&radius=12946&longitude=-108.86526&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.12s,true,400,http://localhost:8000/v3/businesses/search?offset=133&limit=12&term=cinema&location=Paris&attributes=wheelchair_accessible&radius=12369&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.76s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&limit=13&location=Milan,
+ 0.51s,false,200,http://localhost:8000/v3/businesses/search?price=4&limit=33&location=San Francisco&attributes=hot_and_new&categories=auctionhouses&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?price=1&term=cheap&location=Krakow&categories=chinesebazaar&radius=1644&open_at=1665394656&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=3&term=cheap&location=Tokyo&attributes=open_to_all&sort_by=distance&categories=yakitori&locale=en_GB&radius=35829&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?offset=799&limit=3&term=cafe&location=San Francisco&attributes=waitlist_reservation&categories=chinesebazaar&open_at=1787340257&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?price=2&term=cheap&location=NYC&sort_by=rating&categories=allergist&locale=fr_CH&open_at=1854075576&longitude=-80.257195&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&location=San Francisco&attributes=open_to_all&sort_by=distance&radius=20580&longitude=-109.576836&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=515&price=1&latitude=46.941837&term=ok&sort_by=rating&categories=swimwear&open_at=1930406543&longitude=-95.487144&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.79s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=347&price=1&limit=42&term=ok&location=Paris&attributes=cashback&sort_by=review_count&longitude=-105.308716&,
+ 0.71s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=877&price=3&term=food&location=Seville,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&location=NYC&attributes=reservation&radius=17535&longitude=-96.77436&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&price=4&latitude=44.81464&limit=9&term=ok&attributes=hot_and_new&sort_by=rating&locale=fr_BE&radius=9512&longitude=-105.308716&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?latitude=37.04115&term=food&attributes=waitlist_reservation&locale=en_GB&radius=8466&open_at=1907032515&longitude=-82.57242&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.52s,false,200,http://localhost:8000/v3/businesses/search?offset=977&price=4&limit=18&term=cinema&location=Paris&attributes=waitlist_reservation&,
+ 0.57s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=565&latitude=34.378155&location=San Francisco&sort_by=rating&categories=ceremonialclothing&longitude=-81.221596&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?latitude=41.67646&location=NYC&attributes=hot_and_new&sort_by=rating&locale=es_CL&radius=25047&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?price=2&location=Tokyo&categories=axethrowing&radius=26694&open_at=1908008070&longitude=-106.029205&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=213&price=4&latitude=42.428703&term=food&attributes=wheelchair_accessible&categories=comicbooks&radius=10962&longitude=-114.05101&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.49s,false,400,http://localhost:8000/v3/businesses/search?latitude=44.620304&location=Egypt&attributes=request_a_quote&categories=biohazardcleanup&,
+ 0.55s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=42.798103&sort_by=rating&categories=valetservices&radius=18&longitude=-84.56023&,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?offset=936&price=4&term=open&location=San Francisco&attributes=wheelchair_accessible&categories=motorcyclepartsandsupplies&radius=12584&open_at=1870831992&longitude=-117.05896&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.17s,true,400,http://localhost:8000/v3/businesses/search?price=3&latitude=44.34818&sort_by=rating&categories=chickenshop&locale=zh_TW&radius=34293&longitude=-98.2964&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?offset=850&location=San Francisco&categories=eltern_cafes&radius=13293&open_at=2071014009&longitude=-114.921135&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.79s,false,200,http://localhost:8000/v3/businesses/search?price=3&location=Milan,
+ 1.02s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=664&price=3&latitude=41.020565&limit=23&term=public&location=Paris&sort_by=rating&categories=waterparks&locale=fi_FI&longitude=-86.20296&,
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=630&limit=17&term=ok&location=San Francisco&sort_by=review_count&locale=tr_TR&radius=12526&open_at=2033719637&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.94s,false,200,http://localhost:8000/v3/businesses/search?offset=171&location=Melbourne&,
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?location=Krakow&locale=fr_CH&radius=37915&open_at=1997106852&longitude=-107.357254&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.49s,false,200,http://localhost:8000/v3/businesses/search?offset=654&limit=11&term=open&location=Paris&attributes=reservation&sort_by=rating&locale=en_CA&longitude=-89.80061&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=342&limit=15&term=food&location=NYC&attributes=waitlist_reservation&sort_by=best_match&locale=en_IE&radius=9140&open_at=2132659779&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=4&latitude=35.0915&limit=29&term=public&sort_by=rating&categories=limos&radius=19799&longitude=-107.68113&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=240&price=1&latitude=38.59538&limit=7&attributes=open_to_all&categories=arabian&open_at=1955404897&longitude=-95.192535&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&offset=800&price=4&latitude=37.940254&radius=39539&longitude=-103.744095&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.50s,false,200,http://localhost:8000/v3/businesses/search?offset=182&limit=14&term=exciting&location=Milan,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?location=San Francisco&open_at=1627683461&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=680&limit=43&location=NYC&attributes=waitlist_reservation&sort_by=distance&radius=1750&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=133&price=3&latitude=47.326263&term=food&locale=en_NZ&radius=20744&open_at=1917762027&longitude=-117.14777&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.66s,false,200,http://localhost:8000/v3/businesses/search?offset=496&price=1&location=Juarez,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=352&price=4&latitude=45.94078&limit=5&sort_by=distance&locale=en_PH&radius=24577&longitude=-99.32689&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=481&latitude=40.074253&location=Paris&attributes=waitlist_reservation&locale=fr_CH&radius=29244&longitude=-86.68974&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.67s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=436&price=4&limit=3&location=Seville,
+ 0.46s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=800&price=2&latitude=45.776207&limit=21&locale=es_ES&longitude=-83.03231&,
+ 0.52s,false,200,http://localhost:8000/v3/businesses/search?latitude=39.695023&location=Juarez,
+ 0.57s,false,200,http://localhost:8000/v3/businesses/search?offset=256&price=4&limit=37&location=Juarez,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?price=2&latitude=41.893654&limit=32&term=public&location=NYC&categories=eventphotography&locale=cs_CZ&radius=11856&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.11s,true,400,http://localhost:8000/v3/businesses/search?offset=970&price=2&term=public&location=Paris&sort_by=review_count&locale=en_AU&radius=25126&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=557&latitude=40.929832&limit=39&term=public&location=San Francisco&attributes=reservation&sort_by=review_count&categories=currysausage&radius=3381&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?price=3&latitude=33.569786&limit=14&term=cafe&sort_by=best_match&categories=record_labels&radius=26279&open_at=2067674815&longitude=-110.814476&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=376&price=2&term=ok&location=Krakow&attributes=waitlist_reservation&sort_by=rating&categories=sicilian&locale=sv_SE&radius=28721&open_at=1654415255&longitude=-92.14182&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.10s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=701&price=4&latitude=33.967308&sort_by=rating&locale=de_CH&radius=28589&longitude=-94.66655&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&latitude=46.540615&limit=5&attributes=gender_neutral_restrooms&categories=yakiniku&locale=en_IE&radius=20631&longitude=-117.54059&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.66s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&price=2&location=Milan,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&price=2&latitude=43.432404&limit=50&term=cafe&location=NYC&attributes=hot_and_new&radius=19722&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.00s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&term=cinema&location=Juarez,
+ 0.88s,false,200,http://localhost:8000/v3/businesses/search?price=4&limit=42&term=cheap&location=NYC&attributes=gender_neutral_restrooms&categories=localflavor&locale=da_DK&,
+ 1.61s,false,200,http://localhost:8000/v3/businesses/search?price=3&limit=34&location=Seville,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=2&latitude=43.616753&categories=huntingfishingsupplies&locale=en_US&radius=18657&longitude=-112.50404&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?offset=862&price=3&latitude=35.057495&term=ok&attributes=wheelchair_accessible&radius=3168&open_at=2060221597&longitude=-80.611694&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?offset=107&latitude=44.71167&limit=40&term=public&sort_by=best_match&categories=isps&open_at=1611050717&longitude=-100.43293&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.52s,false,200,http://localhost:8000/v3/businesses/search?offset=289&price=2&location=Tokyo&attributes=deals&categories=embassy&locale=de_DE&,
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?price=4&latitude=46.504963&limit=24&attributes=wheelchair_accessible&sort_by=distance&categories=smokingareas&locale=cs_CZ&radius=26251&open_at=2098362413&longitude=-87.313095&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.10s,true,400,http://localhost:8000/v3/businesses/search?offset=3&price=2&limit=46&location=San Francisco&attributes=open_to_all&sort_by=distance&categories=franconian&locale=cs_CZ&open_at=1944347778&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.83s,false,200,http://localhost:8000/v3/businesses/search?location=Juarez,
+ 0.11s,true,400,http://localhost:8000/v3/businesses/search?price=2&latitude=43.88674&limit=23&term=cafe&attributes=open_to_all&radius=10427&open_at=1792187212&longitude=-102.09248&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.69s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=42&latitude=44.657616&term=exciting&attributes=hot_and_new&sort_by=rating&categories=web_design&longitude=-99.43591&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=2&term=exciting&location=Paris&attributes=deals&sort_by=rating&categories=soba&locale=en_SG&radius=36848&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.68s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&limit=46&location=Juarez,
+ 0.75s,false,200,http://localhost:8000/v3/businesses/search?offset=986&price=3&latitude=44.640087&limit=10&term=ok&location=San Francisco&longitude=-109.14342&,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&offset=953&price=1&latitude=42.862473&attributes=deals&categories=congee&radius=11242&longitude=-102.3951&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.65s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=42.785152&limit=25&location=Krakow&attributes=waitlist_reservation&,
+ 1.38s,false,200,http://localhost:8000/v3/businesses/search?term=cinema&location=Seville,
+ 1.04s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=715&latitude=42.691765&term=exciting&longitude=-80.07483&,
+ 1.07s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&price=2&latitude=41.108574&limit=29&term=food&location=NYC&,
+ 1.11s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&latitude=42.785152&limit=40&term=food&attributes=wheelchair_accessible&locale=nb_NO&longitude=-114.64338&,
+ 0.11s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=935&price=2&latitude=35.006153&term=open&location=Tokyo&attributes=open_to_all&sort_by=review_count&categories=hunan&radius=3778&longitude=-86.14482&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&limit=7&location=NYC&sort_by=distance&categories=schnitzel&locale=it_IT&radius=5359&longitude=-111.43587&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.52s,false,200,http://localhost:8000/v3/businesses/search?limit=50&location=Juarez,
+ 0.68s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=34.816994&term=food&attributes=gender_neutral_restrooms&categories=entertainmentlaw&longitude=-113.50867&,
+ 0.64s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=340&latitude=42.56219&term=open&location=Tokyo&sort_by=review_count&categories=african&locale=tr_TR&radius=883&longitude=-113.57532&,
+ 0.89s,false,200,http://localhost:8000/v3/businesses/search?offset=518&latitude=38.239&term=ok&sort_by=rating&categories=bagels&locale=en_CA&longitude=-83.061874&,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?latitude=41.82226&limit=40&attributes=cashback&categories=italian&locale=nl_BE&radius=13850&open_at=2066270627&longitude=-104.28548&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.17s,false,200,http://localhost:8000/v3/businesses/search?offset=644&price=1&latitude=37.274464&term=cheap&location=Seville,
+ 0.90s,false,200,http://localhost:8000/v3/businesses/search?latitude=39.502426&location=Milan,
+ 1.75s,false,200,http://localhost:8000/v3/businesses/search?price=4&latitude=34.830902&categories=czech&longitude=-97.6012&,
+ 1.11s,false,200,http://localhost:8000/v3/businesses/search?offset=331&location=Seville,
+ 2.83s,false,200,http://localhost:8000/v3/businesses/search?price=1&location=Juarez,
+ 0.68s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=437&price=3&location=Milan,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&offset=458&limit=48&term=cafe&location=Melbourne&locale=en_PH&radius=12647&longitude=-94.30476&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.12s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&latitude=46.917038&limit=23&term=public&attributes=wheelchair_accessible&sort_by=best_match&categories=registry_office&locale=en_BE&radius=29444&longitude=-115.91227&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.10s,true,400,http://localhost:8000/v3/businesses/search?limit=4&term=public&location=Paris&categories=friulan&radius=7173&open_at=1604189737&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.45s,false,200,http://localhost:8000/v3/businesses/search?offset=964&latitude=44.524384&term=ok&attributes=cashback&sort_by=review_count&categories=basque&longitude=-113.80801&,
+ 0.60s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=180&price=1&limit=23&term=exciting&location=Paris&locale=nl_BE&,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?latitude=39.047253&term=open&location=Krakow&attributes=waitlist_reservation&locale=en_MY&open_at=1720465407&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.55s,false,200,http://localhost:8000/v3/businesses/search?offset=829&price=1&latitude=46.3675&limit=6&term=food&categories=oilchange&longitude=-112.10476&,
+ 0.17s,true,400,http://localhost:8000/v3/businesses/search?offset=242&price=3&latitude=45.309963&attributes=hot_and_new&categories=brewpubs&locale=tr_TR&open_at=1715872786&longitude=-94.59239&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.56s,false,200,http://localhost:8000/v3/businesses/search?offset=653&latitude=36.277855&limit=15&term=food&attributes=cashback&sort_by=best_match&locale=de_CH&longitude=-119.025734&,
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=549&price=3&latitude=34.877094&term=cinema&location=Krakow&attributes=waitlist_reservation&categories=lightingstores&locale=fi_FI&radius=11493&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.25s,false,200,http://localhost:8000/v3/businesses/search?price=2&latitude=41.29894&location=San Francisco&attributes=gender_neutral_restrooms&sort_by=best_match&,
+ 0.87s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&latitude=45.70638&limit=37&term=ok&location=Seville,
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?price=1&latitude=46.256542&limit=29&location=Paris&attributes=gender_neutral_restrooms&categories=brasseries&radius=36833&open_at=1678932737&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.12s,true,400,http://localhost:8000/v3/businesses/search?term=cafe&location=Krakow&sort_by=review_count&radius=10270&open_at=1950087884&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.87s,false,200,http://localhost:8000/v3/businesses/search?offset=507&limit=41&location=Milan,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?limit=13&location=Egypt&attributes=hot_and_new&categories=airlines&radius=34306&longitude=-80.50469&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.30s,true,400,http://localhost:8000/v3/businesses/search?offset=996&price=2&limit=2&location=NYC&attributes=waitlist_reservation&sort_by=rating&categories=festivals&locale=nl_BE&radius=7097&open_at=1849945868&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.64s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&location=Melbourne&attributes=reservation&locale=it_IT&,
+ 1.03s,false,200,http://localhost:8000/v3/businesses/search?latitude=34.359367&location=Krakow&sort_by=best_match&locale=zh_HK&,
+ 0.64s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=379&price=1&latitude=37.146145&limit=20&term=cafe&location=Juarez,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=322&price=3&latitude=33.569786&attributes=waitlist_reservation&sort_by=rating&open_at=1982753108&longitude=-110.32001&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.65s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=183&limit=44&term=public&location=Juarez,
+ 1.09s,false,200,http://localhost:8000/v3/businesses/search?offset=306&price=3&limit=25&term=exciting&location=Seville,
+ 0.52s,false,200,http://localhost:8000/v3/businesses/search?offset=146&limit=24&location=Melbourne&categories=homeopathic&longitude=-97.725655&,
+ 1.15s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=843&price=1&limit=17&location=Seville,
+ 0.74s,false,200,http://localhost:8000/v3/businesses/search?price=4&latitude=35.80363&term=food&location=San Francisco&attributes=cashback&categories=beergardens&locale=en_MY&,
+ 0.90s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&price=1&limit=23&term=open&location=Seville,
+ 1.02s,false,200,http://localhost:8000/v3/businesses/search?offset=706&latitude=38.886158&limit=11&location=Seville,
+ 0.46s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&term=cinema&location=Tokyo&attributes=wheelchair_accessible&sort_by=distance&longitude=-115.20648&,
+ 0.66s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=43.878098&limit=5&location=Milan,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?offset=731&price=4&latitude=44.470993&term=open&radius=16957&longitude=-98.29817&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.49s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=256&limit=2&location=San Francisco&sort_by=rating&categories=fireprotection&,
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?price=1&location=San Francisco&attributes=gender_neutral_restrooms&sort_by=distance&open_at=2095336063&longitude=-92.08185&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.12s,true,400,http://localhost:8000/v3/businesses/search?price=1&latitude=43.03167&location=Tokyo&sort_by=review_count&radius=15132&open_at=1959613373&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.57s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&price=1&limit=16&term=public&location=Melbourne&sort_by=rating&categories=berrichon&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&offset=298&latitude=36.230885&limit=16&attributes=open_to_all&sort_by=rating&categories=engraving&radius=31565&longitude=-86.13938&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=472&price=3&limit=46&location=Melbourne&attributes=open_to_all&open_at=1862539883&longitude=-102.41509&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=600&latitude=37.21015&limit=36&sort_by=rating&categories=cannabisreferrals&locale=de_CH&radius=34267&open_at=2065255263&longitude=-111.83952&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=861&latitude=45.762543&term=ok&attributes=deals&radius=38301&longitude=-107.772125&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?limit=49&term=cafe&location=Paris&attributes=waitlist_reservation&radius=37712&longitude=-88.31499&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=392&price=4&limit=12&location=Paris&sort_by=review_count&categories=burmese&locale=en_IE&radius=34386&longitude=-91.336945&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=878&price=2&latitude=47.332253&limit=32&term=food&location=Tokyo&attributes=deals&sort_by=review_count&locale=fr_FR&radius=1232&open_at=1913152904&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=4&term=ok&location=Krakow&attributes=cashback&sort_by=best_match&categories=pharmacy&locale=nl_NL&radius=19479&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=771&latitude=44.763878&location=San Francisco&categories=easternmexican&radius=10473&open_at=1739501803&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.10s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=37&price=3&latitude=33.216614&limit=13&term=exciting&attributes=reservation&sort_by=best_match&locale=pt_PT&longitude=-101.44184&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=4&latitude=36.341713&limit=29&location=Tokyo&attributes=reservation&categories=plus_size_fashion&radius=39088&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.32s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=878&term=food&location=Seville,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?offset=181&latitude=33.216614&limit=8&location=Paris&attributes=gender_neutral_restrooms&categories=gerontologist&radius=11013&open_at=1962861965&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.58s,false,200,http://localhost:8000/v3/businesses/search?limit=24&location=Juarez,
+ 1.31s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&limit=8&location=Tokyo&attributes=request_a_quote&categories=headshops&,
+ 0.63s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=641&price=2&latitude=36.563805&term=cinema&categories=fishing&longitude=-93.46772&,
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=477&price=3&latitude=42.637333&limit=28&attributes=gender_neutral_restrooms&sort_by=best_match&locale=fr_CA&radius=7195&open_at=2028601048&longitude=-83.383194&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?price=3&latitude=44.761646&limit=13&term=open&attributes=request_a_quote&locale=fil_PH&radius=27173&open_at=1934939275&longitude=-94.91&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?latitude=45.511208&sort_by=rating&categories=hawkercentre&locale=ja_JP&radius=32486&longitude=-110.151955&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.62s,false,200,http://localhost:8000/v3/businesses/search?price=4&limit=28&term=cafe&location=San Francisco&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=319&latitude=36.304585&limit=48&term=exciting&location=San Francisco&categories=iberian&radius=16691&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.51s,false,200,http://localhost:8000/v3/businesses/search?offset=796&term=cafe&location=Melbourne&attributes=wheelchair_accessible&categories=cheesesteaks&locale=es_CL&longitude=-108.21226&,
+ 0.60s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=212&term=public&location=San Francisco&attributes=reservation&categories=aerialtours&,
+ 0.59s,false,200,http://localhost:8000/v3/businesses/search?offset=331&price=4&term=ok&location=Milan,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?offset=976&price=4&latitude=45.7652&limit=21&term=cafe&location=NYC&attributes=waitlist_reservation&open_at=1720313952&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=179&price=3&latitude=39.319946&limit=34&attributes=open_to_all&sort_by=distance&radius=37275&open_at=2065255263&longitude=-109.72156&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.51s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&latitude=34.743896&limit=2&attributes=open_to_all&sort_by=best_match&categories=karate&longitude=-105.96887&,
+ 0.48s,false,200,http://localhost:8000/v3/businesses/search?offset=955&limit=22&location=Paris&categories=caricatures&locale=en_AU&longitude=-105.945114&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=897&term=food&location=San Francisco&sort_by=distance&open_at=1777203561&longitude=-84.11403&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?term=cafe&location=Krakow&attributes=request_a_quote&sort_by=review_count&categories=chimneysweeps&open_at=2035492197&longitude=-105.46842&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.89s,false,200,http://localhost:8000/v3/businesses/search?limit=46&location=Milan,
+ 4.49s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=33.38062&attributes=open_to_all&sort_by=rating&categories=metalfabricators&locale=en_NZ&longitude=-82.609375&,
+ 0.63s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=720&latitude=34.880623&limit=24&location=Krakow&attributes=deals&sort_by=rating&locale=pl_PL&,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?offset=91&latitude=40.3321&limit=40&sort_by=rating&locale=pt_BR&open_at=1669783635&longitude=-88.14197&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.69s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=371&price=1&latitude=44.77812&limit=9&term=ok&location=Egypt&sort_by=best_match&categories=boatrepair&longitude=-100.02893&,
+ 0.80s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=37.242435&term=cheap&attributes=waitlist_reservation&categories=alternativemedicine&longitude=-94.79181&,
+ 0.61s,false,200,http://localhost:8000/v3/businesses/search?limit=36&term=cafe&location=Paris&attributes=gender_neutral_restrooms&sort_by=best_match&categories=taiwanese&longitude=-102.63198&,
+ 0.11s,true,400,http://localhost:8000/v3/businesses/search?latitude=39.440437&term=cheap&radius=11697&open_at=2139929094&longitude=-118.16846&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.11s,true,400,http://localhost:8000/v3/businesses/search?term=cheap&location=Egypt&sort_by=best_match&radius=12123&open_at=1894211129&longitude=-107.135574&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.09s,false,200,http://localhost:8000/v3/businesses/search?limit=50&location=Milan,
+ 0.17s,true,400,http://localhost:8000/v3/businesses/search?offset=758&location=Paris&attributes=open_to_all&sort_by=distance&radius=31924&open_at=1637481469&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=17&price=4&latitude=41.88192&limit=2&location=NYC&attributes=waitlist_reservation&sort_by=best_match&locale=en_IE&radius=10221&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.72s,false,400,http://localhost:8000/v3/businesses/search?open_now=false&offset=112&price=2&limit=36&term=ok&location=Egypt&attributes=gender_neutral_restrooms&sort_by=distance&locale=es_MX&,
+ 1.43s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=218&limit=43&location=Tokyo&,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?offset=892&latitude=37.141422&term=exciting&attributes=open_to_all&sort_by=review_count&open_at=1747043089&longitude=-105.796906&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.93s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&price=1&latitude=46.679504&limit=34&location=Tokyo&attributes=hot_and_new&categories=furclothing&locale=en_BE&longitude=-106.110916&,
+ 0.64s,false,200,http://localhost:8000/v3/businesses/search?offset=859&price=2&latitude=36.850224&term=ok&location=Milan,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?price=2&latitude=39.28212&limit=44&categories=donairs&open_at=2007523173&longitude=-112.30971&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?latitude=46.669064&attributes=deals&sort_by=best_match&radius=25477&open_at=1988576346&longitude=-80.58177&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.23s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&offset=560&latitude=44.35037&limit=28&term=exciting&attributes=wheelchair_accessible&categories=irrigation&radius=30919&longitude=-87.51639&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.18s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&price=2&latitude=44.622997&sort_by=best_match&categories=galleries&radius=5993&longitude=-82.50679&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?offset=750&latitude=42.42502&term=food&location=Krakow&categories=dumpsterrental&locale=en_CH&radius=37275&open_at=2139929094&longitude=-118.170006&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.32s,false,500,http://localhost:8000/v3/businesses/search?limit=22&location=Juarez,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?price=4&latitude=46.475067&limit=8&term=ok&categories=sports_clubs&locale=en_SG&open_at=2034989333&longitude=-99.64365&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.12s,true,400,http://localhost:8000/v3/businesses/search?offset=113&limit=36&term=food&location=Melbourne&sort_by=distance&radius=22015&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.17s,true,400,http://localhost:8000/v3/businesses/search?offset=304&latitude=42.199306&attributes=request_a_quote&sort_by=rating&locale=en_IE&open_at=1952762736&longitude=-81.515656&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.11s,true,400,http://localhost:8000/v3/businesses/search?term=cheap&location=Krakow&sort_by=best_match&categories=petinsurance&radius=23553&open_at=2013157636&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?latitude=46.506783&term=cafe&attributes=deals&locale=fr_BE&open_at=1669783635&longitude=-113.45919&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.58s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&price=1&latitude=44.622997&location=NYC&categories=virtualrealitycenters&locale=ms_MY&,
+ 0.10s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=2&limit=29&location=San Francisco&sort_by=best_match&categories=british&radius=21651&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 2.07s,false,200,http://localhost:8000/v3/businesses/search?limit=8&term=cafe&location=Seville,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?offset=360&term=food&location=Paris&locale=en_SG&radius=8365&longitude=-109.18468&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=342&price=4&latitude=42.984966&limit=35&term=cinema&sort_by=review_count&categories=barcrawl&locale=es_MX&open_at=2133802948&longitude=-100.975815&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.44s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&price=3&latitude=38.214878&attributes=request_a_quote&locale=de_AT&longitude=-81.79315&,
+ 1.24s,false,200,http://localhost:8000/v3/businesses/search?offset=859&limit=21&location=Tokyo&,
+ 0.17s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&price=3&latitude=45.773388&location=Egypt&attributes=cashback&sort_by=review_count&categories=hydrojetting&locale=de_AT&radius=38376&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&latitude=42.951508&limit=27&term=open&sort_by=best_match&radius=35358&longitude=-85.10558&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&price=2&latitude=39.075638&limit=24&term=food&location=NYC&radius=3407&longitude=-114.41604&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?price=2&latitude=37.39412&term=cheap&attributes=wheelchair_accessible&sort_by=review_count&radius=7371&open_at=1916263191&longitude=-87.32216&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.64s,false,200,http://localhost:8000/v3/businesses/search?price=1&location=Seville,
+ 0.58s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&price=1&latitude=39.83741&limit=24&location=Melbourne&categories=accessories&longitude=-116.53244&,
+ 0.17s,true,400,http://localhost:8000/v3/businesses/search?latitude=45.79919&limit=45&attributes=request_a_quote&sort_by=rating&categories=concept_shops&radius=22376&open_at=1843710854&longitude=-89.52188&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.75s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&price=4&term=cheap&location=Juarez,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=4&latitude=34.84633&limit=43&location=Melbourne&attributes=cashback&sort_by=rating&categories=clowns&radius=35235&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.10s,true,400,http://localhost:8000/v3/businesses/search?offset=59&price=3&latitude=38.214878&limit=26&term=public&location=Tokyo&sort_by=best_match&locale=zh_TW&open_at=1808900129&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=23&price=3&term=open&location=Krakow&categories=belgian&locale=sv_FI&radius=22090&open_at=1918274412&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.29s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=405&limit=19&location=Krakow&attributes=waitlist_reservation&sort_by=distance&,
+ 0.17s,true,400,http://localhost:8000/v3/businesses/search?offset=232&latitude=47.1616&location=San Francisco&radius=10998&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.11s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=154&limit=28&location=Egypt&attributes=reservation&sort_by=rating&categories=cheesetastingclasses&radius=34772&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.11s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&limit=15&location=San Francisco&sort_by=best_match&categories=psychologists&locale=pt_PT&radius=8280&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.10s,true,400,http://localhost:8000/v3/businesses/search?offset=80&latitude=39.210598&term=cafe&location=San Francisco&attributes=deals&radius=23534&longitude=-118.93752&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.60s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&limit=15&location=Milan,
+ 0.45s,false,400,http://localhost:8000/v3/businesses/search?price=1&limit=18&term=food&location=Egypt&attributes=request_a_quote&categories=dancewear&longitude=-92.67121&,
+ 0.56s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=513&price=4&latitude=37.166683&limit=19&term=cheap&location=Paris&sort_by=review_count&,
+ 0.57s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=460&price=3&limit=13&term=cinema&location=Paris&categories=countertopinstall&locale=de_AT&longitude=-91.01329&,
+ 0.74s,false,200,http://localhost:8000/v3/businesses/search?latitude=40.116325&term=food&location=Milan,
+ 1.31s,false,200,http://localhost:8000/v3/businesses/search?price=1&term=ok&location=Milan,
+ 0.83s,false,200,http://localhost:8000/v3/businesses/search?limit=45&location=Milan,
+ 0.78s,false,200,http://localhost:8000/v3/businesses/search?offset=52&latitude=38.945507&term=exciting&location=NYC&sort_by=distance&,
+ 0.10s,true,400,http://localhost:8000/v3/businesses/search?offset=908&term=cafe&location=Krakow&attributes=wheelchair_accessible&sort_by=best_match&radius=35396&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?latitude=35.40587&limit=34&location=NYC&attributes=wheelchair_accessible&sort_by=review_count&categories=cosmeticdentists&radius=17912&open_at=1676305540&longitude=-109.101234&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.69s,false,200,http://localhost:8000/v3/businesses/search?term=food&location=Milan,
+ 1.16s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=245&price=2&latitude=39.99956&sort_by=review_count&longitude=-98.27112&,
+ 1.54s,false,200,http://localhost:8000/v3/businesses/search?latitude=36.12853&term=public&location=Seville,
+ 0.11s,true,400,http://localhost:8000/v3/businesses/search?offset=673&price=3&latitude=40.772194&attributes=gender_neutral_restrooms&categories=signmaking&locale=en_IE&radius=23813&open_at=1618879941&longitude=-115.45318&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.41s,false,400,http://localhost:8000/v3/businesses/search?open_now=false&limit=25&location=Egypt&longitude=-104.37985&,
+ 0.55s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=621&price=3&latitude=46.983932&term=cheap&location=NYC&sort_by=distance&categories=parasailing&,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?offset=412&limit=34&term=cafe&location=Krakow&locale=da_DK&radius=30660&open_at=1730034675&longitude=-99.93781&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&price=3&latitude=42.868233&limit=36&term=food&sort_by=review_count&locale=en_AU&radius=27587&longitude=-88.90462&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.49s,false,200,http://localhost:8000/v3/businesses/search?price=3&latitude=37.864357&location=Paris&attributes=deals&sort_by=rating&categories=gozleme&locale=en_MY&,
+ 0.56s,false,200,http://localhost:8000/v3/businesses/search?offset=236&price=3&latitude=41.71438&term=food&sort_by=best_match&longitude=-104.32066&,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&offset=70&price=3&latitude=37.106895&limit=6&categories=artinstallation&locale=pt_BR&radius=24702&longitude=-111.49744&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.27s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=33.500587&limit=26&term=cafe&location=Milan,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?price=3&latitude=42.464584&limit=18&term=exciting&sort_by=rating&categories=mailboxcenters&radius=17800&longitude=-87.21423&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=393&price=4&latitude=44.72836&term=open&location=San Francisco&sort_by=review_count&locale=pt_BR&radius=26891&longitude=-84.989815&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.36s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=504&latitude=43.04078&limit=48&sort_by=rating&categories=skydiving&longitude=-91.14191&,
+ 1.13s,false,200,http://localhost:8000/v3/businesses/search?offset=372&latitude=37.071556&term=cafe&location=Milan,
+ 4.19s,false,400,http://localhost:8000/v3/businesses/search?open_now=false&price=2&term=cinema&location=Egypt&sort_by=review_count&longitude=-108.710464&,
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=170&latitude=42.287376&sort_by=review_count&open_at=1642655785&longitude=-113.20817&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?latitude=34.709873&term=cheap&categories=caribbean&locale=en_GB&radius=32521&longitude=-97.38428&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?limit=35&location=Egypt&locale=ja_JP&radius=21307&open_at=1734582906&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.22s,false,200,http://localhost:8000/v3/businesses/search?price=4&limit=7&location=Juarez,
+ 0.84s,false,200,http://localhost:8000/v3/businesses/search?limit=14&term=ok&location=Milan,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?offset=515&limit=32&term=food&location=San Francisco&attributes=request_a_quote&open_at=2030890506&longitude=-101.47326&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.71s,false,200,http://localhost:8000/v3/businesses/search?latitude=47.33482&term=food&location=Milan,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?price=4&latitude=44.675823&location=Tokyo&attributes=wheelchair_accessible&open_at=1955025439&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.56s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=37.603073&limit=19&location=San Francisco&locale=es_AR&radius=717&longitude=-84.625&,
+ 0.46s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&price=1&latitude=41.88216&limit=34&attributes=reservation&sort_by=distance&categories=vapeshops&longitude=-115.796585&,
+ 1.22s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=201&price=2&latitude=40.423153&limit=23&term=exciting&location=Milan,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=103&term=ok&location=Krakow&attributes=gender_neutral_restrooms&sort_by=review_count&categories=3dprinting&radius=36239&open_at=1788537246&longitude=-117.925644&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?limit=2&term=cinema&location=Krakow&categories=pathologists&locale=zh_TW&radius=9995&open_at=1738901558&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?latitude=33.896545&limit=32&sort_by=distance&categories=freediving&open_at=2106620929&longitude=-117.39945&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.42s,false,200,http://localhost:8000/v3/businesses/search?price=3&latitude=39.107708&categories=saunainstallation&locale=en_BE&radius=359&longitude=-110.10928&,
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?price=3&latitude=40.46236&limit=50&term=cheap&location=Tokyo&attributes=reservation&sort_by=best_match&locale=da_DK&radius=11812&open_at=1638625100&longitude=-100.23284&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=843&price=1&limit=48&location=Paris&attributes=hot_and_new&sort_by=review_count&categories=jewelry&radius=137&open_at=1910401492&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?limit=47&location=San Francisco&attributes=gender_neutral_restrooms&sort_by=review_count&categories=pekinese&radius=19389&longitude=-117.22652&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=200&limit=41&term=cafe&location=Paris&attributes=deals&categories=estheticians&locale=es_ES&radius=2682&open_at=2046103688&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.63s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&limit=36&location=San Francisco&attributes=request_a_quote&sort_by=review_count&categories=cafeteria&locale=de_CH&,
+ 1.06s,false,200,http://localhost:8000/v3/businesses/search?offset=47&limit=14&term=cheap&location=Milan,
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=963&price=3&latitude=47.28076&term=ok&location=Egypt&attributes=cashback&sort_by=distance&categories=comicbooks&locale=es_ES&open_at=1641761426&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.71s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=306&price=3&latitude=37.782207&location=Juarez,
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=456&latitude=45.88837&term=cafe&attributes=gender_neutral_restrooms&sort_by=review_count&locale=zh_TW&radius=22141&longitude=-86.58481&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?price=3&latitude=44.45398&limit=47&location=San Francisco&attributes=cashback&categories=indoor_playcenter&radius=10558&open_at=1937595233&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?offset=544&price=1&limit=35&term=cheap&location=Tokyo&sort_by=best_match&radius=39866&longitude=-115.93797&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.42s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=28&limit=48&term=ok&location=Milan,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&offset=110&latitude=36.899654&term=ok&categories=childbirthedu&locale=pt_PT&radius=13416&longitude=-80.48762&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=850&latitude=39.626316&limit=38&term=ok&location=Melbourne&attributes=gender_neutral_restrooms&sort_by=rating&locale=sv_SE&open_at=1849402907&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.87s,false,200,http://localhost:8000/v3/businesses/search?latitude=37.0476&term=food&location=Seville,
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=425&term=public&location=NYC&attributes=waitlist_reservation&categories=tuscan&open_at=1606164794&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=4&price=4&latitude=34.91702&limit=50&term=cheap&attributes=request_a_quote&sort_by=best_match&locale=nl_BE&radius=5788&longitude=-97.6166&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.54s,false,200,http://localhost:8000/v3/businesses/search?price=3&latitude=43.066387&limit=17&term=exciting&location=Paris&attributes=gender_neutral_restrooms&sort_by=distance&,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=426&price=3&limit=25&term=cafe&location=San Francisco&attributes=gender_neutral_restrooms&sort_by=distance&locale=sv_FI&radius=7982&longitude=-86.94008&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?latitude=43.216866&term=cinema&attributes=gender_neutral_restrooms&locale=en_PH&radius=13977&longitude=-98.104576&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.80s,false,200,http://localhost:8000/v3/businesses/search?offset=505&price=1&latitude=42.512783&limit=32&term=exciting&location=Krakow&attributes=gender_neutral_restrooms&sort_by=best_match&locale=fil_PH&longitude=-91.04873&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=40&price=4&latitude=40.693356&attributes=deals&categories=wildlifecontrol&radius=11247&open_at=1783685761&longitude=-117.69514&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.85s,false,200,http://localhost:8000/v3/businesses/search?latitude=43.366024&term=cafe&location=Juarez,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?price=2&latitude=41.454517&limit=11&location=Tokyo&locale=fi_FI&radius=9100&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.82s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&price=1&limit=27&location=Juarez,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?price=3&latitude=34.783997&limit=6&attributes=reservation&categories=provencal&open_at=1692014849&longitude=-115.04596&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=353&location=Paris&attributes=wheelchair_accessible&locale=sv_SE&radius=22481&open_at=1588161040&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.62s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=431&latitude=36.30719&limit=20&sort_by=distance&categories=torshi&locale=fr_CA&longitude=-84.046265&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=626&price=1&latitude=35.839615&limit=20&term=cheap&sort_by=rating&categories=pets&locale=en_SG&radius=28468&longitude=-96.875275&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?offset=119&price=4&latitude=43.127632&location=Krakow&locale=it_CH&open_at=1711905461&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=526&price=3&latitude=45.025215&limit=30&term=ok&locale=nl_NL&radius=24247&longitude=-90.14524&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.13s,false,200,http://localhost:8000/v3/businesses/search?offset=675&price=3&limit=23&term=cinema&location=Seville,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=123&price=1&latitude=37.23903&term=exciting&location=Paris&sort_by=review_count&categories=mamak&locale=en_NZ&open_at=1836621663&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=530&price=4&latitude=40.658516&sort_by=review_count&locale=en_SG&radius=9160&longitude=-92.9041&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.86s,false,200,http://localhost:8000/v3/businesses/search?offset=175&location=NYC&longitude=-117.16604&,
+ 0.59s,false,200,http://localhost:8000/v3/businesses/search?location=Seville,
+ 0.97s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=16&price=1&location=NYC&attributes=gender_neutral_restrooms&sort_by=best_match&categories=driving_schools&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&limit=36&location=Krakow&sort_by=best_match&categories=gourmet&locale=ms_MY&radius=34057&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?latitude=34.95242&location=San Francisco&categories=newmexican&locale=nl_BE&radius=22711&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.50s,false,200,http://localhost:8000/v3/businesses/search?offset=293&latitude=37.349155&term=cinema&location=Melbourne&attributes=reservation&sort_by=review_count&categories=pet_sitting&locale=fil_PH&longitude=-88.88533&,
+ 0.59s,false,200,http://localhost:8000/v3/businesses/search?price=2&limit=13&term=food&location=Melbourne&attributes=reservation&categories=sportgoods&locale=en_MY&,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?latitude=39.51913&term=food&location=San Francisco&attributes=gender_neutral_restrooms&sort_by=rating&locale=en_BE&open_at=1867261539&longitude=-89.43567&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.11s,true,400,http://localhost:8000/v3/businesses/search?price=2&latitude=43.311928&attributes=waitlist_reservation&sort_by=review_count&locale=es_CL&radius=33290&open_at=1971488121&longitude=-103.79261&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.12s,true,400,http://localhost:8000/v3/businesses/search?latitude=43.216866&attributes=request_a_quote&sort_by=distance&categories=challengecourses&locale=fr_FR&open_at=1927126663&longitude=-102.8358&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.75s,false,200,http://localhost:8000/v3/businesses/search?offset=983&price=1&limit=5&term=cafe&location=Milan,
+ 0.70s,false,200,http://localhost:8000/v3/businesses/search?offset=55&price=3&latitude=43.266266&limit=9&term=public&location=Juarez,
+ 0.73s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=211&latitude=45.51414&limit=41&term=cinema&attributes=gender_neutral_restrooms&sort_by=rating&locale=nl_NL&longitude=-91.510345&,
+ 0.66s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&price=3&limit=12&term=food&location=Paris&sort_by=distance&radius=436&longitude=-110.848694&,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?price=1&term=food&location=Melbourne&attributes=cashback&sort_by=review_count&categories=emergencyrooms&locale=zh_HK&radius=1147&open_at=1817482607&longitude=-110.367874&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.61s,false,200,http://localhost:8000/v3/businesses/search?price=3&term=cafe&location=Krakow&categories=gliding&longitude=-98.4315&,
+ 0.70s,false,200,http://localhost:8000/v3/businesses/search?price=1&limit=36&term=exciting&location=Seville,
+ 0.43s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&price=4&latitude=35.735195&attributes=request_a_quote&sort_by=review_count&locale=es_MX&longitude=-101.777145&,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?latitude=33.40599&limit=35&location=Tokyo&locale=es_CL&radius=6364&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?latitude=35.47622&location=Krakow&categories=peruvian&radius=6225&longitude=-81.884384&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.81s,false,200,http://localhost:8000/v3/businesses/search?offset=46&price=1&term=cheap&location=Juarez,
+ 0.53s,false,200,http://localhost:8000/v3/businesses/search?offset=642&latitude=38.62787&attributes=wheelchair_accessible&sort_by=rating&categories=cookingclasses&locale=en_CH&longitude=-102.11635&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&offset=893&latitude=36.899654&term=cafe&sort_by=review_count&radius=28103&longitude=-106.535736&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&offset=287&latitude=36.432144&term=open&location=Tokyo&sort_by=review_count&categories=pumpkinpatches&locale=da_DK&radius=6327&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?term=cinema&location=Egypt&attributes=waitlist_reservation&sort_by=distance&locale=en_HK&radius=37791&longitude=-118.41576&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?limit=35&term=cinema&location=Egypt&attributes=waitlist_reservation&sort_by=distance&locale=fr_CA&radius=31640&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.12s,true,400,http://localhost:8000/v3/businesses/search?price=4&latitude=36.562077&limit=50&location=San Francisco&attributes=open_to_all&sort_by=best_match&categories=bespoke&open_at=1693742522&longitude=-115.13048&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.76s,false,200,http://localhost:8000/v3/businesses/search?price=2&location=Juarez,
+ 0.97s,false,200,http://localhost:8000/v3/businesses/search?offset=588&price=1&latitude=44.70797&limit=14&location=Seville,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?offset=491&price=1&latitude=46.560177&attributes=request_a_quote&radius=23067&open_at=1783192979&longitude=-80.40236&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=3&latitude=47.183197&attributes=open_to_all&radius=3935&longitude=-80.30741&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.56s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&price=4&latitude=36.235935&limit=36&location=Tokyo&attributes=request_a_quote&locale=en_AU&,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?latitude=37.717278&limit=30&term=public&location=Paris&attributes=open_to_all&sort_by=distance&categories=chiropractors&locale=fr_CH&open_at=1764904919&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.10s,true,400,http://localhost:8000/v3/businesses/search?offset=515&limit=16&term=food&location=Egypt&attributes=open_to_all&radius=37635&open_at=1894937856&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.32s,false,200,http://localhost:8000/v3/businesses/search?offset=833&term=cinema&location=Milan,
+ 0.99s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=15&price=2&latitude=47.296318&limit=24&term=cheap&location=Seville,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?offset=628&price=4&latitude=40.448418&limit=50&location=NYC&attributes=reservation&radius=19205&open_at=1850306996&longitude=-102.76195&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.71s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&latitude=35.942223&term=open&categories=bikesharing&longitude=-111.06733&,
+ 0.79s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=43.816414&limit=2&location=Krakow&longitude=-98.65983&,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=712&latitude=44.708366&limit=49&categories=estatephotography&locale=en_AU&radius=3935&longitude=-116.509895&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.47s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=523&location=San Francisco&attributes=hot_and_new&sort_by=review_count&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=829&price=3&latitude=45.946274&term=food&location=Melbourne&radius=7659&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=28&latitude=36.232765&term=open&location=NYC&sort_by=review_count&radius=9672&longitude=-86.20444&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 4.11s,false,200,http://localhost:8000/v3/businesses/search?price=1&latitude=33.997757&limit=1&location=Milan,
+ 0.11s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&price=1&limit=47&term=cheap&location=NYC&sort_by=review_count&categories=appliances&radius=5994&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=96&latitude=46.178066&term=cheap&attributes=deals&sort_by=best_match&locale=en_PH&radius=21267&longitude=-114.73958&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.90s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=41.201797&limit=17&term=ok&location=Juarez,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?offset=916&price=3&latitude=45.274136&location=San Francisco&attributes=gender_neutral_restrooms&sort_by=rating&locale=da_DK&open_at=2142317215&longitude=-87.35266&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.17s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=1&latitude=44.34741&limit=39&term=open&attributes=wheelchair_accessible&sort_by=review_count&locale=fr_CH&radius=24758&longitude=-87.0126&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.11s,true,400,http://localhost:8000/v3/businesses/search?offset=501&latitude=34.843925&limit=49&attributes=request_a_quote&categories=softwaredevelopment&locale=sv_SE&open_at=2094432468&longitude=-96.26161&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.69s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&latitude=39.73799&location=Milan,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?price=3&latitude=43.577034&term=cheap&attributes=open_to_all&sort_by=review_count&locale=pt_BR&radius=26633&open_at=2113019137&longitude=-98.806564&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.90s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=523&price=3&latitude=39.18786&limit=11&term=cafe&location=Melbourne&sort_by=distance&locale=es_ES&longitude=-116.30916&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?price=2&latitude=34.594025&term=public&categories=formalwear&locale=ja_JP&radius=8619&longitude=-116.34278&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.57s,false,200,http://localhost:8000/v3/businesses/search?offset=593&price=4&term=food&location=Milan,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?price=3&limit=2&location=Tokyo&attributes=cashback&categories=icedelivery&radius=33203&longitude=-97.54062&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.92s,false,200,http://localhost:8000/v3/businesses/search?price=2&term=ok&location=Tokyo&locale=fil_PH&longitude=-113.51284&,
+ 1.83s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=846&latitude=45.933796&limit=33&term=exciting&attributes=reservation&sort_by=rating&categories=meaderies&locale=en_BE&longitude=-117.024765&,
+ 1.62s,false,200,http://localhost:8000/v3/businesses/search?offset=330&price=3&location=Paris&sort_by=review_count&categories=electronics&locale=en_BE&,
+ 0.49s,false,200,http://localhost:8000/v3/businesses/search?offset=730&location=Paris&attributes=deals&locale=fr_CA&,
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?latitude=44.83266&term=open&location=Melbourne&attributes=waitlist_reservation&sort_by=review_count&categories=dancewear&radius=25026&open_at=2139225379&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.59s,false,200,http://localhost:8000/v3/businesses/search?latitude=40.205585&term=cafe&location=Milan,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?offset=796&latitude=42.000336&term=cafe&location=Egypt&sort_by=distance&categories=syrian&open_at=1846004245&longitude=-106.59409&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.60s,false,200,http://localhost:8000/v3/businesses/search?limit=27&location=Milan,
+ 1.46s,false,200,http://localhost:8000/v3/businesses/search?offset=318&price=4&latitude=39.608475&term=open&location=Juarez,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?offset=607&price=3&latitude=37.41092&term=open&categories=highschools&locale=zh_TW&open_at=1989574130&longitude=-99.45833&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.55s,false,200,http://localhost:8000/v3/businesses/search?offset=483&price=4&latitude=43.92059&limit=18&term=cinema&location=Milan,
+ 0.51s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=902&latitude=33.38713&limit=46&term=cheap&location=Juarez,
+ 0.91s,false,200,http://localhost:8000/v3/businesses/search?offset=763&price=1&latitude=40.079796&limit=4&term=cheap&location=Seville,
+ 0.88s,false,200,http://localhost:8000/v3/businesses/search?price=3&latitude=41.16268&limit=17&location=San Francisco&locale=de_CH&,
+ 0.60s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=752&price=4&latitude=40.309223&term=ok&location=Milan,
+ 0.70s,false,200,http://localhost:8000/v3/businesses/search?offset=167&latitude=44.79193&location=Juarez,
+ 0.67s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=39.549076&limit=17&term=open&attributes=gender_neutral_restrooms&sort_by=review_count&categories=bootcamps&longitude=-97.97995&,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&limit=39&term=public&location=Krakow&attributes=gender_neutral_restrooms&sort_by=rating&locale=sv_FI&radius=24869&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.44s,false,400,http://localhost:8000/v3/businesses/search?open_now=false&offset=151&term=cinema&location=Egypt&categories=pilates&radius=238&,
+ 1.14s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=42.128418&limit=23&location=Paris&attributes=wheelchair_accessible&sort_by=best_match&categories=waterstores&,
+ 0.78s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=72&latitude=36.900253&term=cafe&location=Paris&attributes=waitlist_reservation&categories=christmastrees&locale=es_ES&,
+ 0.76s,false,200,http://localhost:8000/v3/businesses/search?offset=848&latitude=46.35132&limit=9&term=open&location=Egypt&sort_by=rating&categories=recreation&locale=es_AR&longitude=-83.54418&,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?price=3&term=cheap&location=Krakow&categories=mobiledentrepair&radius=20594&open_at=1610831208&longitude=-91.73543&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=230&price=4&latitude=35.011513&limit=24&attributes=deals&sort_by=best_match&categories=flemish&radius=5115&longitude=-115.708725&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=331&price=2&limit=39&location=Krakow&categories=gardening&radius=32085&open_at=1860101256&longitude=-89.36462&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.83s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=753&latitude=36.499977&limit=3&location=Seville,
+ 0.70s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&price=1&latitude=41.00709&limit=36&location=Seville,
+ 0.63s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=152&price=3&latitude=41.41879&term=cheap&categories=vascularmedicine&locale=es_AR&longitude=-110.01211&,
+ 1.15s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=520&price=1&latitude=38.25217&limit=5&term=public&location=Krakow&attributes=waitlist_reservation&categories=hakka&locale=zh_TW&longitude=-93.96559&,
+ 0.18s,true,400,http://localhost:8000/v3/businesses/search?limit=34&location=Paris&locale=es_CL&radius=8354&open_at=2143342627&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=995&limit=2&location=Krakow&attributes=cashback&categories=comfortfood&radius=25234&longitude=-90.858734&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.68s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=39.297554&limit=6&term=exciting&location=Tokyo&categories=abruzzese&locale=cs_CZ&longitude=-84.423355&,
+ 0.67s,false,200,http://localhost:8000/v3/businesses/search?price=4&latitude=47.032005&limit=7&location=Seville,
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=4&limit=22&term=ok&location=NYC&categories=paddleboarding&radius=8285&longitude=-100.88396&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.12s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=92&limit=50&location=Paris&attributes=waitlist_reservation&radius=21518&longitude=-111.65446&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?limit=43&location=San Francisco&attributes=waitlist_reservation&sort_by=review_count&radius=21427&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?price=2&latitude=34.551003&sort_by=best_match&locale=en_CH&radius=27896&longitude=-91.0298&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.46s,false,200,http://localhost:8000/v3/businesses/search?price=1&latitude=46.494312&limit=33&categories=boxing&locale=fr_CH&longitude=-90.4353&,
+ 0.44s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=494&price=2&latitude=35.383705&limit=8&location=Paris&attributes=reservation&radius=265&,
+ 0.54s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&latitude=39.251644&limit=23&attributes=cashback&locale=pt_BR&longitude=-87.07588&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=253&price=2&latitude=46.9896&term=cafe&categories=walkingtours&open_at=1690487536&longitude=-96.10887&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.76s,false,200,http://localhost:8000/v3/businesses/search?price=3&latitude=46.898422&term=public&location=Juarez,
+ 0.12s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&price=1&latitude=47.33622&limit=14&term=exciting&categories=lakes&locale=de_AT&radius=13481&longitude=-83.51947&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.12s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&offset=543&location=Paris&categories=popuprestaurants&radius=2781&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.81s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=693&price=3&term=open&location=Juarez,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=75&latitude=46.84327&attributes=cashback&locale=ms_MY&radius=38963&longitude=-82.106186&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.99s,false,200,http://localhost:8000/v3/businesses/search?offset=739&latitude=44.592613&location=Seville,
+ 0.45s,false,400,http://localhost:8000/v3/businesses/search?price=1&location=Egypt&categories=watersuppliers&locale=en_AU&,
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&latitude=34.49547&limit=37&location=Egypt&attributes=deals&sort_by=distance&categories=jpsweets&locale=nb_NO&radius=25983&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.12s,true,400,http://localhost:8000/v3/businesses/search?offset=22&latitude=47.32074&limit=2&term=public&location=NYC&open_at=1945424996&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.12s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=103&latitude=45.43374&location=San Francisco&sort_by=review_count&categories=hair&locale=fr_FR&radius=12640&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&price=3&limit=6&location=NYC&attributes=hot_and_new&sort_by=distance&categories=insulationinstallation&radius=22080&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.13s,true,400,http://localhost:8000/v3/businesses/search?offset=118&term=cinema&location=Melbourne&attributes=gender_neutral_restrooms&sort_by=distance&locale=fr_BE&open_at=2003624980&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.58s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=720&price=3&limit=19&location=San Francisco&sort_by=rating&categories=cannabisreferrals&,
+ 0.58s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&offset=519&price=3&limit=37&term=food&location=NYC&attributes=cashback&categories=tapasmallplates&,
+ 0.60s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&price=1&term=exciting&location=Tokyo&attributes=hot_and_new&locale=es_CL&longitude=-95.76723&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=470&latitude=42.072853&limit=25&term=exciting&attributes=reservation&radius=27367&longitude=-108.96366&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.60s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&latitude=39.143227&limit=49&attributes=open_to_all&longitude=-117.749214&,
+ 0.12s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=371&price=4&location=Tokyo&sort_by=distance&radius=21395&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.70s,false,200,http://localhost:8000/v3/businesses/search?price=2&term=cafe&location=San Francisco&attributes=waitlist_reservation&sort_by=review_count&categories=calabrian&longitude=-103.704216&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&limit=40&term=cinema&location=Egypt&attributes=deals&sort_by=best_match&radius=10719&longitude=-103.8138&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.12s,true,400,http://localhost:8000/v3/businesses/search?latitude=33.69393&attributes=request_a_quote&categories=tutoring&radius=20437&longitude=-90.17235&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.17s,true,400,http://localhost:8000/v3/businesses/search?offset=889&price=3&latitude=41.211437&term=cafe&attributes=cashback&sort_by=best_match&categories=cprclasses&locale=pt_PT&radius=15532&longitude=-86.60056&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.54s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=41.550518&limit=22&location=Juarez,
+ 0.17s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&latitude=41.178402&attributes=cashback&sort_by=best_match&categories=lifeinsurance&radius=16651&longitude=-119.14604&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.17s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&offset=567&price=4&location=Egypt&attributes=hot_and_new&locale=fr_FR&radius=38478&longitude=-96.10887&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.54s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=44.79193&attributes=wheelchair_accessible&categories=ateliers&longitude=-81.07988&,
+ 0.18s,true,400,http://localhost:8000/v3/businesses/search?offset=703&price=1&latitude=34.903557&limit=40&categories=municipality&radius=6363&open_at=1870568028&longitude=-97.937386&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?price=3&latitude=38.108253&term=cafe&location=Paris&sort_by=best_match&categories=halfwayhouses&open_at=1889992438&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&offset=659&term=exciting&location=Krakow&sort_by=distance&radius=16810&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?price=2&latitude=43.346413&attributes=cashback&sort_by=best_match&radius=8354&longitude=-89.36462&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.08s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&price=2&latitude=33.984833&limit=11&term=cheap&sort_by=review_count&categories=autoelectric&longitude=-117.039925&,
+ 0.47s,false,200,http://localhost:8000/v3/businesses/search?latitude=39.293667&location=Tokyo&attributes=cashback&sort_by=review_count&categories=colonics&locale=it_IT&longitude=-83.0708&,
+ 0.61s,false,200,http://localhost:8000/v3/businesses/search?offset=567&limit=1&location=San Francisco&attributes=hot_and_new&sort_by=review_count&categories=tofu&longitude=-114.72085&,
+ 0.61s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=189&price=1&latitude=46.869576&limit=49&sort_by=best_match&categories=jaliscan&locale=zh_HK&longitude=-107.17755&,
+ 0.72s,false,200,http://localhost:8000/v3/businesses/search?location=Juarez,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=69&latitude=45.81431&term=ok&location=Paris&sort_by=rating&radius=30783&open_at=1772808105&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=89&latitude=36.33029&limit=20&term=cinema&categories=consumerlaw&open_at=1742492493&longitude=-100.26&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.15s,true,400,http://localhost:8000/v3/businesses/search?open_now=true&latitude=38.98564&location=San Francisco&sort_by=rating&radius=3177&longitude=-117.033646&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.68s,false,200,http://localhost:8000/v3/businesses/search?offset=248&price=1&latitude=38.48321&limit=5&term=cafe&location=Melbourne&sort_by=rating&categories=nicaraguan&longitude=-110.77588&,
+ 0.16s,true,400,http://localhost:8000/v3/businesses/search?open_now=false&limit=46&location=Paris&categories=malaysian&locale=it_CH&radius=19981&longitude=-105.01784&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.64s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&latitude=34.922665&term=ok&location=Juarez,
+ 0.67s,false,200,http://localhost:8000/v3/businesses/search?open_now=true&price=4&limit=28&location=Milan,
+ 0.46s,false,200,http://localhost:8000/v3/businesses/search?open_now=false&offset=547&price=1&latitude=45.50697&attributes=waitlist_reservation&longitude=-115.97152&,
+ 0.76s,false,200,http://localhost:8000/v3/businesses/search?offset=92&price=4&latitude=40.589222&limit=2&term=public&attributes=hot_and_new&sort_by=review_count&categories=importedfood&longitude=-88.16089&,
+ 0.14s,true,400,http://localhost:8000/v3/businesses/search?offset=340&latitude=33.746235&limit=42&term=ok&sort_by=best_match&categories=cheesesteaks&locale=en_CA&radius=31957&open_at=1880359497&longitude=-82.79463&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.10s,true,400,http://localhost:8000/v3/businesses/search?offset=285&limit=26&location=San Francisco&categories=saunainstallation&locale=en_GB&radius=38963&,'{"message": "IdlReasoner has detected this request is wrong"}'

@@ -1,0 +1,500 @@
+ 1.19s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.76s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=collaborator,
+ 0.72s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=owner,
+ 0.60s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member,
+ 0.40s,true,400,http://localhost:8000/user/repos?visibility=all&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.85s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=all&type=private&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.77s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.41s,true,400,http://localhost:8000/user/repos?visibility=public&sort=updated&type=public&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.11s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=organization_member,
+ 0.36s,true,400,http://localhost:8000/user/repos?affiliation=owner&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.83s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.89s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.37s,true,400,http://localhost:8000/user/repos?visibility=all&type=all&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.68s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.92s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.74s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.37s,true,400,http://localhost:8000/user/repos?visibility=public&sort=created&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.39s,true,400,http://localhost:8000/user/repos?visibility=private&sort=pushed&type=all&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.76s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.39s,true,400,http://localhost:8000/user/repos?visibility=public&sort=updated&type=private&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.27s,true,400,http://localhost:8000/user/repos?visibility=private&sort=created&type=private&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.64s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=owner,
+ 0.99s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.23s,true,400,http://localhost:8000/user/repos?visibility=public&sort=full_name&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.40s,true,400,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member&sort=pushed&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.70s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.69s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.63s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 1.05s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.24s,true,400,http://localhost:8000/user/repos?affiliation=organization_member&type=public&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.24s,true,400,http://localhost:8000/user/repos?affiliation=organization_member&sort=created&type=private&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.45s,true,400,http://localhost:8000/user/repos?visibility=public&sort=created&type=member&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.43s,true,400,http://localhost:8000/user/repos?visibility=private&type=public&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.39s,true,400,http://localhost:8000/user/repos?visibility=public&type=owner&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.38s,true,400,http://localhost:8000/user/repos?visibility=all&type=all&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.63s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator,
+ 0.44s,true,400,http://localhost:8000/user/repos?visibility=public&sort=pushed&type=all&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.27s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.86s,true,400,http://localhost:8000/user/repos?visibility=private&sort=pushed&type=public&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.44s,true,400,http://localhost:8000/user/repos?visibility=private&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.39s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.81s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.64s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=collaborator,
+ 0.63s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator,
+ 0.64s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=collaborator,
+ 0.56s,true,400,http://localhost:8000/user/repos?visibility=all&sort=pushed&type=private&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.79s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.45s,true,400,http://localhost:8000/user/repos?visibility=all&type=public&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.41s,true,400,http://localhost:8000/user/repos?affiliation=organization_member&sort=full_name&type=owner&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.72s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.96s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=public&sort=updated&type=private&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.27s,true,400,http://localhost:8000/user/repos?visibility=public&type=all&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.39s,true,400,http://localhost:8000/user/repos?visibility=all&type=member&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.36s,true,400,http://localhost:8000/user/repos?visibility=all&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.47s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member,
+ 0.84s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.24s,true,400,http://localhost:8000/user/repos?visibility=public&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.68s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.69s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=owner,
+ 0.91s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.26s,true,400,http://localhost:8000/user/repos?affiliation=organization_member&type=public&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.62s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member,
+ 0.63s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.94s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=organization_member,
+ 1.19s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=organization_member,
+ 0.98s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=collaborator,
+ 0.70s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=owner,
+ 0.31s,true,400,http://localhost:8000/user/repos?visibility=private&sort=full_name&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.57s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.44s,true,400,http://localhost:8000/user/repos?visibility=private&type=all&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.29s,true,400,http://localhost:8000/user/repos?visibility=private&sort=created&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.41s,true,400,http://localhost:8000/user/repos?visibility=all&sort=updated&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.42s,true,400,http://localhost:8000/user/repos?visibility=all&sort=full_name&type=member&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.42s,true,400,http://localhost:8000/user/repos?visibility=all&sort=created&type=private&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.50s,true,400,http://localhost:8000/user/repos?visibility=private&affiliation=owner&sort=pushed&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.82s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 1.12s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.56s,true,400,http://localhost:8000/user/repos?visibility=all&type=owner&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.81s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator,
+ 0.49s,true,400,http://localhost:8000/user/repos?visibility=all&sort=full_name&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=public&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.39s,true,400,http://localhost:8000/user/repos?visibility=public&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.62s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator,
+ 0.38s,true,400,http://localhost:8000/user/repos?visibility=all&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.41s,true,400,http://localhost:8000/user/repos?visibility=public&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.30s,true,400,http://localhost:8000/user/repos?visibility=all&affiliation=organization_member&sort=full_name&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.44s,true,400,http://localhost:8000/user/repos?visibility=public&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.77s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 1.05s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.37s,true,400,http://localhost:8000/user/repos?visibility=all&sort=updated&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.36s,true,400,http://localhost:8000/user/repos?affiliation=organization_member&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.71s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.36s,true,400,http://localhost:8000/user/repos?visibility=public&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.37s,true,400,http://localhost:8000/user/repos?visibility=all&affiliation=owner&sort=created&type=owner&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.52s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=collaborator,
+ 0.23s,true,400,http://localhost:8000/user/repos?visibility=all&type=all&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.40s,true,400,http://localhost:8000/user/repos?visibility=public&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.73s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.96s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=organization_member,
+ 0.65s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.35s,true,400,http://localhost:8000/user/repos?affiliation=collaborator&type=owner&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.89s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.64s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.71s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.69s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.96s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 1.03s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.74s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.35s,true,400,http://localhost:8000/user/repos?visibility=public&affiliation=collaborator&sort=pushed&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.41s,true,400,http://localhost:8000/user/repos?visibility=public&affiliation=owner&type=owner&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.64s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.56s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.23s,true,400,http://localhost:8000/user/repos?affiliation=organization_member&type=owner&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.49s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator,
+ 0.30s,true,400,http://localhost:8000/user/repos?visibility=all&type=member&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.53s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=collaborator,
+ 0.32s,true,400,http://localhost:8000/user/repos?visibility=all&sort=updated&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.28s,true,400,http://localhost:8000/user/repos?visibility=public&sort=full_name&type=private&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.48s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member,
+ 0.54s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.66s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=owner,
+ 0.77s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.26s,true,400,http://localhost:8000/user/repos?visibility=all&sort=created&type=owner&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.27s,true,400,http://localhost:8000/user/repos?affiliation=organization_member&type=all&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=public&type=private&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.68s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.47s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator,
+ 0.26s,true,400,http://localhost:8000/user/repos?visibility=public&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.67s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=owner,
+ 0.26s,true,400,http://localhost:8000/user/repos?visibility=all&sort=updated&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.58s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.22s,true,400,http://localhost:8000/user/repos?visibility=all&sort=created&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.63s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.24s,true,400,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member&sort=created&type=private&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.49s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member,
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=all&sort=created&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=private&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.54s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.24s,true,400,http://localhost:8000/user/repos?visibility=public&affiliation=organization_member&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.26s,true,400,http://localhost:8000/user/repos?visibility=public&sort=updated&type=all&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.52s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.50s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.23s,true,400,http://localhost:8000/user/repos?visibility=all&sort=updated&type=public&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.62s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=owner,
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=public&sort=updated&type=member&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.26s,true,400,http://localhost:8000/user/repos?visibility=all&sort=pushed&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.25s,true,400,http://localhost:8000/user/repos?affiliation=owner&sort=pushed&type=private&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.63s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=owner,
+ 0.23s,true,400,http://localhost:8000/user/repos?visibility=private&sort=pushed&type=owner&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.26s,true,400,http://localhost:8000/user/repos?visibility=all&sort=pushed&type=private&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.79s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=owner,
+ 0.22s,true,400,http://localhost:8000/user/repos?visibility=all&sort=pushed&type=owner&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.00s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=collaborator,
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=public&type=owner&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.04s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.98s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.89s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=organization_member,
+ 0.56s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.47s,true,400,http://localhost:8000/user/repos?affiliation=owner&sort=pushed&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.60s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=owner,
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=public&sort=pushed&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.61s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.61s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.25s,true,400,http://localhost:8000/user/repos?affiliation=owner&sort=updated&type=private&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.66s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.68s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.92s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=public&sort=created&type=owner&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.76s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.98s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=owner,
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=public&affiliation=organization_member&sort=created&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.80s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=private&sort=full_name&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.28s,true,400,http://localhost:8000/user/repos?visibility=all&type=private&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.04s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.52s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member,
+ 0.24s,true,400,http://localhost:8000/user/repos?visibility=private&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.52s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=collaborator,
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=private&sort=updated&type=member&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.09s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.24s,true,400,http://localhost:8000/user/repos?visibility=public&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.65s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=owner,
+ 0.65s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.22s,true,400,http://localhost:8000/user/repos?visibility=private&sort=created&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.83s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=organization_member,
+ 0.24s,true,400,http://localhost:8000/user/repos?visibility=private&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.81s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=owner,
+ 0.24s,true,400,http://localhost:8000/user/repos?visibility=public&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=private&type=owner&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.27s,true,400,http://localhost:8000/user/repos?visibility=public&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.24s,true,400,http://localhost:8000/user/repos?visibility=private&affiliation=owner&sort=pushed&type=owner&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.24s,true,400,http://localhost:8000/user/repos?visibility=public&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=public&type=public&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.24s,true,400,http://localhost:8000/user/repos?visibility=public&sort=full_name&type=member&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.79s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.26s,true,400,http://localhost:8000/user/repos?visibility=public&sort=created&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.79s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=all&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.76s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.48s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=collaborator,
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=public&sort=created&type=owner&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.67s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.51s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.44s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member,
+ 0.22s,true,400,http://localhost:8000/user/repos?visibility=private&sort=created&type=owner&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.24s,true,400,http://localhost:8000/user/repos?visibility=all&sort=created&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.69s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=organization_member,
+ 0.27s,true,400,http://localhost:8000/user/repos?visibility=public&sort=pushed&type=all&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.69s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.25s,true,400,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.54s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.57s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=collaborator,
+ 0.39s,true,400,http://localhost:8000/user/repos?visibility=all&type=member&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.25s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=organization_member,
+ 0.45s,true,400,http://localhost:8000/user/repos?visibility=private&type=member&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.39s,true,400,http://localhost:8000/user/repos?visibility=public&affiliation=collaborator&sort=updated&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.65s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator,
+ 0.35s,true,400,http://localhost:8000/user/repos?visibility=private&sort=full_name&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.86s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.77s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.32s,true,400,http://localhost:8000/user/repos?visibility=private&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.79s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.77s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.26s,true,400,http://localhost:8000/user/repos?visibility=public&affiliation=organization_member&sort=updated&type=owner&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.35s,true,400,http://localhost:8000/user/repos?affiliation=owner&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.35s,true,400,http://localhost:8000/user/repos?affiliation=collaborator&sort=pushed&type=all&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.91s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.42s,true,400,http://localhost:8000/user/repos?visibility=public&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.40s,true,400,http://localhost:8000/user/repos?visibility=private&type=all&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.31s,true,400,http://localhost:8000/user/repos?visibility=public&sort=updated&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.32s,true,400,http://localhost:8000/user/repos?affiliation=organization_member&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.91s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.27s,true,400,http://localhost:8000/user/repos?visibility=public&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.33s,true,400,http://localhost:8000/user/repos?affiliation=organization_member&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.39s,true,400,http://localhost:8000/user/repos?visibility=private&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.43s,true,400,http://localhost:8000/user/repos?visibility=private&sort=full_name&type=all&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.33s,true,400,http://localhost:8000/user/repos?visibility=private&sort=created&type=all&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.45s,true,400,http://localhost:8000/user/repos?visibility=public&sort=pushed&type=private&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.78s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.80s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=owner,
+ 0.34s,true,400,http://localhost:8000/user/repos?visibility=private&type=member&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.28s,true,400,http://localhost:8000/user/repos?visibility=private&sort=full_name&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.56s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.33s,true,400,http://localhost:8000/user/repos?visibility=public&sort=updated&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.66s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=owner,
+ 0.39s,true,400,http://localhost:8000/user/repos?visibility=public&affiliation=collaborator&sort=updated&type=private&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.36s,true,400,http://localhost:8000/user/repos?visibility=private&sort=pushed&type=public&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.44s,true,400,http://localhost:8000/user/repos?visibility=all&sort=full_name&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.82s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.61s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member,
+ 0.67s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.60s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator,
+ 0.39s,true,400,http://localhost:8000/user/repos?visibility=all&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.87s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.72s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=collaborator,
+ 0.42s,true,400,http://localhost:8000/user/repos?visibility=private&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.39s,true,400,http://localhost:8000/user/repos?affiliation=owner&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.42s,true,400,http://localhost:8000/user/repos?affiliation=collaborator&sort=created&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.33s,true,400,http://localhost:8000/user/repos?visibility=all&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.87s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.53s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=collaborator,
+ 0.62s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=owner,
+ 0.33s,true,400,http://localhost:8000/user/repos?visibility=private&sort=created&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.66s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.28s,true,400,http://localhost:8000/user/repos?affiliation=owner&sort=updated&type=all&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.59s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.37s,true,400,http://localhost:8000/user/repos?visibility=all&sort=pushed&type=public&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.60s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator,
+ 0.33s,true,400,http://localhost:8000/user/repos?visibility=public&type=all&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.14s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.83s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.28s,true,400,http://localhost:8000/user/repos?visibility=all&sort=pushed&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.74s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=collaborator,
+ 0.70s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.79s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=owner,
+ 0.41s,true,400,http://localhost:8000/user/repos?visibility=public&type=owner&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.77s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.74s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=owner,
+ 0.67s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=collaborator,
+ 0.71s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=collaborator,
+ 0.40s,true,400,http://localhost:8000/user/repos?visibility=public&affiliation=organization_member&sort=updated&type=all&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.40s,true,400,http://localhost:8000/user/repos?affiliation=organization_member&sort=created&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.39s,true,400,http://localhost:8000/user/repos?visibility=private&sort=pushed&type=all&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.66s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.36s,true,400,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator&type=all&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.34s,true,400,http://localhost:8000/user/repos?affiliation=collaborator&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.39s,true,400,http://localhost:8000/user/repos?affiliation=organization_member&type=all&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.41s,true,400,http://localhost:8000/user/repos?visibility=public&sort=pushed&type=public&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.85s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.84s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.35s,true,400,http://localhost:8000/user/repos?visibility=all&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.35s,true,400,http://localhost:8000/user/repos?visibility=all&type=private&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.40s,true,400,http://localhost:8000/user/repos?visibility=public&sort=updated&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.40s,true,400,http://localhost:8000/user/repos?visibility=public&affiliation=owner&sort=created&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.40s,true,400,http://localhost:8000/user/repos?visibility=public&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.40s,true,400,http://localhost:8000/user/repos?visibility=public&sort=updated&type=private&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.39s,true,400,http://localhost:8000/user/repos?visibility=public&sort=pushed&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.36s,true,400,http://localhost:8000/user/repos?visibility=all&sort=updated&type=owner&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.40s,true,400,http://localhost:8000/user/repos?visibility=all&sort=updated&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.73s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=owner,
+ 0.89s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.87s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=organization_member,
+ 0.66s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=collaborator,
+ 0.89s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.40s,true,400,http://localhost:8000/user/repos?visibility=private&sort=created&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.08s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.34s,true,400,http://localhost:8000/user/repos?visibility=public&sort=pushed&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.27s,true,400,http://localhost:8000/user/repos?visibility=all&affiliation=owner&sort=updated&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.38s,true,400,http://localhost:8000/user/repos?visibility=private&type=owner&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.69s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=owner,
+ 0.33s,true,400,http://localhost:8000/user/repos?affiliation=organization_member&type=public&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.74s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.79s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.37s,true,400,http://localhost:8000/user/repos?visibility=all&type=all&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.06s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.32s,true,400,http://localhost:8000/user/repos?visibility=public&affiliation=owner&sort=updated&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.84s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=owner,
+ 0.38s,true,400,http://localhost:8000/user/repos?visibility=all&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.85s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.36s,true,400,http://localhost:8000/user/repos?visibility=private&sort=created&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.29s,true,400,http://localhost:8000/user/repos?visibility=all&sort=full_name&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.35s,true,400,http://localhost:8000/user/repos?visibility=public&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.40s,true,400,http://localhost:8000/user/repos?visibility=public&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.40s,true,400,http://localhost:8000/user/repos?visibility=all&sort=full_name&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.40s,true,400,http://localhost:8000/user/repos?visibility=private&type=public&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.97s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.68s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=collaborator,
+ 0.33s,true,400,http://localhost:8000/user/repos?visibility=all&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.23s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.43s,true,400,http://localhost:8000/user/repos?visibility=all&type=private&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 1.13s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.37s,true,400,http://localhost:8000/user/repos?visibility=private&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.87s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.79s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 1.05s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 1.04s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 1.06s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 1.03s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.28s,true,400,http://localhost:8000/user/repos?visibility=all&type=public&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.76s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.29s,true,400,http://localhost:8000/user/repos?visibility=all&sort=pushed&type=all&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.36s,true,400,http://localhost:8000/user/repos?affiliation=owner&sort=updated&type=member&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.29s,true,400,http://localhost:8000/user/repos?visibility=public&affiliation=collaborator&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.66s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=collaborator,
+ 0.39s,true,400,http://localhost:8000/user/repos?visibility=all&sort=pushed&type=owner&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.76s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=collaborator,
+ 0.79s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=owner,
+ 0.40s,true,400,http://localhost:8000/user/repos?visibility=private&type=owner&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.83s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.32s,true,400,http://localhost:8000/user/repos?visibility=public&affiliation=organization_member&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.83s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=organization_member,
+ 0.81s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.80s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator,
+ 0.85s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.65s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=owner,
+ 0.53s,true,400,http://localhost:8000/user/repos?visibility=public&sort=updated&type=owner&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.49s,true,400,http://localhost:8000/user/repos?visibility=all&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.80s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator,
+ 0.65s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=owner,
+ 0.33s,true,400,http://localhost:8000/user/repos?visibility=private&sort=updated&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.60s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator,
+ 0.76s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.69s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.35s,true,400,http://localhost:8000/user/repos?affiliation=collaborator&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.77s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.90s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator,
+ 0.62s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.33s,true,400,http://localhost:8000/user/repos?visibility=all&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.30s,true,400,http://localhost:8000/user/repos?visibility=private&type=owner&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.69s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.78s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.36s,true,400,http://localhost:8000/user/repos?visibility=public&sort=updated&type=member&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.77s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.60s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator,
+ 0.65s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=owner,
+ 0.87s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=organization_member,
+ 0.39s,true,400,http://localhost:8000/user/repos?visibility=all&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.37s,true,400,http://localhost:8000/user/repos?visibility=all&type=all&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.70s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.33s,true,400,http://localhost:8000/user/repos?visibility=public&sort=full_name&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.35s,true,400,http://localhost:8000/user/repos?affiliation=collaborator&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.84s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.95s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=organization_member,
+ 0.61s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=collaborator,
+ 0.66s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.33s,true,400,http://localhost:8000/user/repos?visibility=all&type=public&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.71s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.87s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=organization_member,
+ 0.56s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.32s,true,400,http://localhost:8000/user/repos?visibility=all&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.35s,true,400,http://localhost:8000/user/repos?visibility=all&affiliation=owner&type=public&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.71s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=owner,
+ 0.95s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.32s,true,400,http://localhost:8000/user/repos?visibility=all&type=member&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.35s,true,400,http://localhost:8000/user/repos?visibility=public&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.34s,true,400,http://localhost:8000/user/repos?visibility=public&sort=created&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.84s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.72s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=owner,
+ 0.30s,true,400,http://localhost:8000/user/repos?affiliation=organization_member&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.34s,true,400,http://localhost:8000/user/repos?visibility=private&type=member&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.30s,true,400,http://localhost:8000/user/repos?visibility=private&type=public&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.44s,true,400,http://localhost:8000/user/repos?visibility=private&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.82s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.80s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.38s,true,400,http://localhost:8000/user/repos?visibility=all&type=member&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.70s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=owner,
+ 0.68s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.41s,true,400,http://localhost:8000/user/repos?visibility=private&sort=updated&type=member&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.31s,true,400,http://localhost:8000/user/repos?visibility=public&sort=created&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.69s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=owner,
+ 0.57s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator,
+ 0.29s,true,400,http://localhost:8000/user/repos?affiliation=owner&sort=full_name&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.66s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.33s,true,400,http://localhost:8000/user/repos?visibility=all&sort=pushed&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.35s,true,400,http://localhost:8000/user/repos?visibility=public&type=public&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.39s,true,400,http://localhost:8000/user/repos?visibility=private&sort=pushed&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.37s,true,400,http://localhost:8000/user/repos?visibility=private&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.65s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.79s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=owner,
+ 0.84s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.36s,true,400,http://localhost:8000/user/repos?visibility=public&type=all&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.64s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.80s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.59s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member,
+ 0.39s,true,400,http://localhost:8000/user/repos?visibility=all&sort=updated&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.53s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator,
+ 0.60s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.28s,true,400,http://localhost:8000/user/repos?affiliation=organization_member&sort=full_name&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.65s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member,
+ 0.57s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=collaborator,
+ 0.81s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.69s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=collaborator,
+ 0.87s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.69s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.72s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=owner,
+ 0.30s,true,400,http://localhost:8000/user/repos?visibility=all&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.24s,true,400,http://localhost:8000/user/repos?visibility=private&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.27s,true,400,http://localhost:8000/user/repos?visibility=all&sort=full_name&type=public&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.29s,true,400,http://localhost:8000/user/repos?visibility=all&sort=full_name&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.64s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.79s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.69s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.84s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.75s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=owner,
+ 0.82s,true,400,http://localhost:8000/user/repos?visibility=private&sort=created&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.82s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.29s,true,400,http://localhost:8000/user/repos?visibility=public&type=owner&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.35s,true,400,http://localhost:8000/user/repos?visibility=all&sort=pushed&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.81s,false,200,http://localhost:8000/user/repos?visibility=public&affiliation=organization_member,
+ 0.30s,true,400,http://localhost:8000/user/repos?visibility=all&type=all&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.28s,true,400,http://localhost:8000/user/repos?visibility=private&type=private&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.78s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=owner,
+ 0.64s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=owner,
+ 0.34s,true,400,http://localhost:8000/user/repos?visibility=all&affiliation=collaborator&type=owner&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.28s,true,400,http://localhost:8000/user/repos?visibility=all&type=private&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.36s,true,400,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator&sort=pushed&type=public&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.63s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.33s,true,400,http://localhost:8000/user/repos?visibility=public&type=private&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.29s,true,400,http://localhost:8000/user/repos?visibility=public&sort=updated&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.77s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=organization_member,
+ 0.69s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.27s,true,400,http://localhost:8000/user/repos?visibility=public&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.32s,true,400,http://localhost:8000/user/repos?visibility=private&sort=created&type=public&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.78s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=owner,
+ 0.73s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.74s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=organization_member,
+ 0.58s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member,
+ 0.31s,true,400,http://localhost:8000/user/repos?visibility=public&sort=updated&type=member&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.85s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.35s,true,400,http://localhost:8000/user/repos?visibility=all&sort=pushed&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.57s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member,
+ 0.29s,true,400,http://localhost:8000/user/repos?visibility=private&affiliation=collaborator&type=all&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.31s,true,400,http://localhost:8000/user/repos?visibility=all&type=all&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.58s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member,
+ 0.81s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.62s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member,
+ 0.32s,true,400,http://localhost:8000/user/repos?affiliation=owner&type=owner&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.31s,true,400,http://localhost:8000/user/repos?affiliation=organization_member&type=owner&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.81s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.83s,false,200,http://localhost:8000/user/repos?visibility=all&affiliation=owner,
+ 0.38s,true,400,http://localhost:8000/user/repos?visibility=private&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.91s,false,200,http://localhost:8000/user/repos?affiliation=collaborator,
+ 0.36s,true,400,http://localhost:8000/user/repos?affiliation=owner&type=private&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.30s,true,400,http://localhost:8000/user/repos?visibility=public&type=member&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.30s,true,400,http://localhost:8000/user/repos?visibility=all&affiliation=collaborator&sort=updated&type=member&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.30s,true,400,http://localhost:8000/user/repos?visibility=all&sort=updated&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.55s,false,200,http://localhost:8000/user/repos?visibility=private&affiliation=organization_member,
+ 0.29s,true,400,http://localhost:8000/user/repos?affiliation=collaborator&type=owner&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.36s,true,400,http://localhost:8000/user/repos?visibility=private&sort=full_name&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.85s,false,200,http://localhost:8000/user/repos?affiliation=owner,
+ 0.91s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.33s,true,400,http://localhost:8000/user/repos?affiliation=organization_member&sort=updated&type=member&direction=asc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.31s,true,400,http://localhost:8000/user/repos?visibility=private&type=private&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.28s,true,400,http://localhost:8000/user/repos?visibility=private&sort=full_name&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.38s,true,400,http://localhost:8000/user/repos?visibility=private&type=member&direction=desc&,'{"message": "IdlReasoner has detected this request is wrong"}'
+ 0.87s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.75s,false,200,http://localhost:8000/user/repos?affiliation=organization_member,
+ 0.41s,true,400,http://localhost:8000/user/repos?visibility=public&type=all&,'{"message": "IdlReasoner has detected this request is wrong"}'
